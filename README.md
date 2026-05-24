@@ -1,32 +1,24 @@
-\# Astronomy Dashboard
-
-
+# Astronomy Dashboard
 
 A collection of Python scripts for stacking and analyzing astronomical FITS images.
 
+## Features
 
+- Kappa-sigma median image stacking
 
-\## Features
+- Surface brightness profile measurement and de Vaucouleurs law fitting
 
-\- Kappa-sigma median image stacking
+- Signal-to-noise ratio measurement via aperture photometry
 
-\- Surface brightness profile measurement and de Vaucouleurs law fitting
+- FITS header inspection
 
-\- Signal-to-noise ratio measurement via aperture photometry
-
-\- FITS header inspection
-
-
-
-\## Dependencies
+## Dependencies
 
 Install requirements with:
 
 pip install -r requirements.txt
 
-
-
-\## Usage
+## Usage
 
 See individual script docstrings for usage instructions.
 
